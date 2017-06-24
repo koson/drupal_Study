@@ -1,5 +1,9 @@
 Bookmarks
 
+
+Graphing Data over TIme in a Scatter Plot still unsolved. My notes and the new Flot Timemode Views module.(https://groups.drupal.org/node/119374)
+
+
 https://www.drupal.org/project/views_charts
 
 https://www.drupal.org/project/date
